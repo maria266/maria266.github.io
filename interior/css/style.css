@@ -192,7 +192,7 @@ margin-left: -3px;
    
 }
 .footer{
-    display:none;
+    
     width: 100%;
     height: 150px;
 /*    border-top: 3px solid lightgray;*/
@@ -202,6 +202,8 @@ margin-left: -3px;
     padding: 20px;
     position: absolute;
     bottom: 0;
+        background: #f2f2f2;
+        box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 .footer p{
     float: right;
